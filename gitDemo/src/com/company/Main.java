@@ -8,7 +8,7 @@ public class Main {
 		String s="st主干修改1420";
        String ideas="idea主干新增1414";
        String ideas="idea分支修改1504";
-       String ideas="idea分支新增1504";
+       String ideas="idea分支修改1514";
         System.out.println(string);
     }
 }
