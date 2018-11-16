@@ -8,7 +8,7 @@ public class Main {
 
 		string="st新加1838"
         string="idea新加1841";
-        string="idea新加1856";
+        string="idea修改1021";
         System.out.println(string);
     }
 }
