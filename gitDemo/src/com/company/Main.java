@@ -5,8 +5,9 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
        
-		String s="st主干修改1102";
-       String ideas="idea分支修改1414";
+		String s="st主干修改1420";
+       String ideas="idea主干新增1414";
+       String ideas="idea主干新增1420";
         System.out.println(string);
     }
 }
