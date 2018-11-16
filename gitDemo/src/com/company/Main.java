@@ -6,7 +6,7 @@ public class Main {
 	// write your code here
         String string="idea1125创建";
 
-		string="st新加1838"
+		string="st修改1034"
         string="idea新加1841";
         string="idea修改1021";
         System.out.println(string);
